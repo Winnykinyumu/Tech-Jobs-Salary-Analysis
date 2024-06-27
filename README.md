@@ -7,5 +7,19 @@ The aim of this analysis is to identify key trends, patterns and disparities in 
 The analysis will help stakeholdetrs, including job seekers, employers and policy makers , make informed decisions regarding compensation strategies and talent acquisition.
 
 ## Data source
+The original dataset was from [Kaggle datasets](https://www.kaggle.com/datasets?fileType=csv) "Tech Job Salaries Initial, CSV" file.
+
+## Skills Demonstrated
+- Filters
+- Conditional Formating
+- Pivot Table
+- Pivot Charts
+- Slicers
+- Data cleaning
+
+## Dashboard for the Analysis
+
+![image](https://github.com/Winnykinyumu/Tech-Jobs-Salary-Analysis/assets/124139386/610d9dff-f672-481f-8485-abcc3626d32b)
+
 
 
