@@ -1,6 +1,6 @@
 # Tech-Jobs-Salary-Analysis
 
-![image](https://github.com/Winnykinyumu/Tech-Jobs-Salary-Analysis/assets/124139386/222450fb-e566-44f5-8000-c851c1d0dfec)
+![salary screenshot updated](https://github.com/Winnykinyumu/Tech-Jobs-Salary-Analysis/assets/124139386/3ff3c9e3-4313-4cc6-be8f-b3226cc1906f)
 
 ## Project Objective
 The aim of this analysis is to identify key trends, patterns and disparities in compensation across diffefrent job roles, experience levels, industries and geographic location.
