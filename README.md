@@ -61,6 +61,10 @@ The original dataset was from [Kaggle datasets](https://www.kaggle.com/datasets?
 - The analysis did not fully capture the value of non-salary compensation such as bonuses, stock options, health benefits, and other perks.
 - The analysis did not account for cost-of-living differences across regions, which can significantly impact salary comparisons.
 
+## Reference
+
+IT & technology salaries in 2024: Tech pay trends.[Here]( https://www.splunk.com/en_us/blog/learn/it-salaries.html)
+
 
 
 
