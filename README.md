@@ -53,6 +53,14 @@ The original dataset was from [Kaggle datasets](https://www.kaggle.com/datasets?
 
 ![image](https://github.com/Winnykinyumu/Tech-Jobs-Salary-Analysis/assets/124139386/936ef39a-4241-42d0-bf2f-a37f3acffe8f)
 
+## Recommendations
+- The analysis portrays tech jobs salaries to vary across regions. For a more refined analysis, there is a need to include data from additional reputable sources such as government labor statistics, industry reports and academic studies. This will provide a broader perspective and improve the reliability of the analysis.
+- Future research needs to examine how compensation varies across different insustries within tech sector like cybersecurity, fintech, based on skills. This will highlight the skills gap in the tech industry, and what skills are more marketable.
+
+## Limitations
+- The analysis did not fully capture the value of non-salary compensation such as bonuses, stock options, health benefits, and other perks.
+- The analysis did not account for cost-of-living differences across regions, which can significantly impact salary comparisons.
+
 
 
 
